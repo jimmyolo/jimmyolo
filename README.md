@@ -1,14 +1,11 @@
-## Hi 👋 I'm Jimmy. I ❤️ code.
-<h3>
-A passionate developer from Taiwan 🇹🇼.
-</h3>
+### Hi 👋 I'm Jimmy. I ❤️ code.
+#### A passionate developer from Taiwan 🇹🇼
 
-- 🚀 I’m currently working on ... **high performance auto trade system**
+- 🚀 I’m currently working on ... **[automated trading system](https://github.com/victor0801x/tw-stk)**
 - 💬 Ask me about ... **anything**
 - 😄 Pronouns: ... Husband, Nodejs lover, trader
-- ⚡ Fun fact: ...
 
-## 🛠 Languages and Tools
+### 🛠 Languages and Tools
 ![](https://img.shields.io/badge/Language-Node.Js-6aa6f8?style=flat&logoColor=white&logo=node.js)
 ![](https://img.shields.io/badge/Language-JavaScript-6aa6f8?style=flat&logoColor=white&logo=javascript)
 ![](https://img.shields.io/badge/Language-C-6aa6f8?style=flat&logoColor=white&logo=c)
@@ -34,10 +31,15 @@ A passionate developer from Taiwan 🇹🇼.
 ![](https://img.shields.io/badge/os-Debian-6aa6f8?style=flat&logoColor=white&logo=debian)
 ![](https://img.shields.io/badge/IDE-VS_Code-6aa6f8?style=flat&logoColor=white&logo=visual-studio-code)
 
-## 📊 GitHub Stats
+### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/victor0801x)
+
 <a href="https://github.com/victor0801x/victor0801x">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victor0801x&show_icons=true&locale=en&layout=compact" alt="victor0801x" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=victor0801x&show_icons=true&count_private=true&locale=en" alt="victor0801x" /></p>
 </a>
+
 <a href="https://github.com/victor0801x/victor0801x">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victor0801x&show_icons=true&count_private=true&locale=en" alt="victor0801x" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victor0801x&show_icons=true&locale=en&layout=compact" alt="victor0801x" /></p>
 </a>
+
+<!-- ![GitHub metrics](https://metrics.lecoq.io/victor0801x) -->
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=victor0801x) -->
