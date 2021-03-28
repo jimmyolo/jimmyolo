@@ -10,6 +10,7 @@
 ![](https://img.shields.io/badge/Language-JavaScript-6aa6f8?style=flat&logoColor=white&logo=javascript)
 ![](https://img.shields.io/badge/Language-C-6aa6f8?style=flat&logoColor=white&logo=c)
 ![](https://img.shields.io/badge/Language-Bash-6aa6f8?style=flat&logoColor=white&logo=gnu-bash)
+![](https://img.shields.io/badge/Language-COBOL-6aa6f8?style=flat&logoColor=white&logo=COBOL)
 <!-- ![](https://img.shields.io/badge/Language-Go-6aa6f8?style=flat&logoColor=white&logo=go) -->
 
 ![](https://img.shields.io/badge/Database-MariaDB-6aa6f8?style=flat&logoColor=white&logo=mariadb)
