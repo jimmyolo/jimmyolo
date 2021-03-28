@@ -32,7 +32,6 @@
 ![](https://img.shields.io/badge/os-Linux-6aa6f8?style=flat&logoColor=white&logo=linux)
 ![](https://img.shields.io/badge/os-CentOS-6aa6f8?style=flat&logoColor=white&logo=centos)
 ![](https://img.shields.io/badge/os-Debian-6aa6f8?style=flat&logoColor=white&logo=debian)
-![](https://img.shields.io/badge/IDE-VS_Code-6aa6f8?style=flat&logoColor=white&logo=visual-studio-code)
 
 ### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/victor0801x)
 
