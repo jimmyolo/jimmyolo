@@ -36,10 +36,10 @@ My name is Jimmy Huang, and I'm a software developer. I'm from Taiwan, living in
 ### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> GitHub Stats](https://github.com/victor0801x)
 
 <a href="https://github.com/victor0801x/victor0801x">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victor0801x&show_icons=true&locale=en&layout=compact" alt="victor0801x" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victor0801x&show_icons=true" alt="victor0801x" />
 </a>
 <a href="https://github.com/victor0801x/victor0801x">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=victor0801x&show_icons=true&count_private=true&locale=en" alt="victor0801x" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=victor0801x&show_icons=true&count_private=true" alt="victor0801x" />
 </a>
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/victor0801x) -->
