@@ -1,5 +1,6 @@
-![3D contribution graph](./profile-3d-contrib/profile-green-animate.svg)
 ![Git block contribution graph](./profile-3d-contrib/profile-gitblock.svg)
+
+<!-- profile-green-animate.svg is generated too, just not shown here. -->
 
 <!--
 **jimmyolo/jimmyolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
