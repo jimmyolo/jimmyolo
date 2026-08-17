@@ -4,21 +4,33 @@ on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - profile-3d-contrib/**
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v5
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # A PAT, not secrets.GITHUB_TOKEN: the bot token cannot see private
+          # contributions, so the graph would only show public activity.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_3D_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/profile-3d/contrib-dual.json
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated"
-          git push
+          if git commit -m "chore: update 3d contribution profile"; then
+            git push
+          fi
